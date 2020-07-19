@@ -1,4 +1,4 @@
-#usage
+#استخدام
 
 
 $ pkg install git
