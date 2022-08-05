@@ -8,6 +8,7 @@ $ cd HK-lock
 $ bash HK-lock.sh
 
 #إلغاء كلمة المرور
+
 cd HK-lock
 bash removepass.sh
 
